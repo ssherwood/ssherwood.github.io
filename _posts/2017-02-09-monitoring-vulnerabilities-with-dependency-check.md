@@ -29,11 +29,11 @@ It helps to become familiar with some of the common terminology that Dependency 
 they are used quite frequently in the [documentation](https://jeremylong.github.io/DependencyCheck/)
 and other security-related articles:
 
-* [NVD](https://nvd.nist.gov/): _National Vulnerability Database_ - a national database of Common Vulnerability and Exposure reports that are provided free to the public
-* [CVE](https://www.cve.mitre.org/): _Common Vulnerability and Exposure_ - a one to many mapping of Common Platform Enumerations to publicly known cybersecurity vulnerabilities
 * [CPE](https://cpe.mitre.org/): _Common Platform Enumeration_ - a common standard identifier used for all types of software packages including third-party libraries
+* [CVE](https://www.cve.mitre.org/): _Common Vulnerability and Exposure_ - a one to many mapping of Common Platform Enumerations to publicly known cybersecurity vulnerabilities
 * [CWE](https://cwe.mitre.org/): _Common Weakness Enumeration_ - a catalog of standardized terms for types of software weaknesses and vulnerabilities
 * [CVSS](https://www.first.org/cvss): _Common Vulnerability Scoring System_ - a standardized scoring system for IT vulnerabilities that help indicate urgency of response 
+* [NVD](https://nvd.nist.gov/): _National Vulnerability Database_ - a national database of Common Vulnerability and Exposure reports that are provided free to the public
 
 # How Does Dependency Check Work?
 
