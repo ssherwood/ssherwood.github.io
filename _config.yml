@@ -6,11 +6,12 @@ github_username:  ssherwood
 twitter_username: shawn_sherwood
 linkedin_username: shawn-sherwood
 stackoverflow_username: shawn-sherwood
+
 excerpt_separator: <!--more-->
 
 # Build settings
-markdown: kramdown
 theme: minima
+markdown: kramdown
 gems:
   - jekyll-feed
   - github-pages
