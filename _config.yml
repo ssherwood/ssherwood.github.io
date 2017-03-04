@@ -1,24 +1,18 @@
-title: '//TODO: A Blog'
+title: 'underTree.io'
 author: Shawn Sherwood
-description: > # 
-  A blog about the things that I should have already blogged about...
-
-url: 'https://ssherwood.github.io'
-twitter_username: shawn_sherwood
+description:  >
+  // TODO: A blog about the things that I should have already blogged about...
 github_username:  ssherwood
-
-github:
-  is_project_page: false
-  is_user_page: true
-
-show_downloads: false
-google_analytics:
+twitter_username: shawn_sherwood
+excerpt_separator: <!--more-->
 
 # Build settings
-theme: jekyll-theme-minimal
+markdown: kramdown
+theme: minima
 gems:
   - jekyll-feed
   - github-pages
+  - minima
 exclude:
   - Gemfile
   - Gemfile.lock

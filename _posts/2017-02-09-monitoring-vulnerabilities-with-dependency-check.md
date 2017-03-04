@@ -1,9 +1,13 @@
 ---
 layout: post
-title:  "Active Monitoring for Security Vulnerabilities in Third-party Libraries using Dependency Check"
+title:  "Discover Security Vulnerabilities with Dependency Check"
 date:   2017-02-09 17:37:58 -0500
-categories: security sdd owasp
+categories: security
 ---
+
+Use the Dependency Check tool to automatically scan your software projects for security
+vulnerabilities as part of your normal CI/CD pipeline.
+<!--more-->
 
 An important part of keeping any software project healthy is by monitoring included third-party
 libraries and keeping them up to date.  Unfortunately, it can be easy to fall behind and not realize

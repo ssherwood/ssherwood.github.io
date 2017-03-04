@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  "Stay@Home Con 20xx"
+title:  "Stay@Home Con 2017"
 date:   2017-02-18 12:00:00 -0500
 categories: youtube
 ---
+Excerpt here
+<!--more-->
 
 I recommend that developers go to at least one technical conference every other year (even more
 frequently if possible).  The actual event itself doesn't matter as much as the opportunity to
