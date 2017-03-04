@@ -9,6 +9,9 @@ stackoverflow_username: shawn-sherwood
 
 excerpt_separator: <!--more-->
 
+disqus:
+  shortname: http-undertree-io
+
 # Build settings
 theme: minima
 markdown: kramdown

@@ -1,14 +1,18 @@
 ---
 layout: post
 title: "Discover Security Vulnerabilities with Dependency Check"
+author: Shawn Sherwood
 date: 2017-02-09 17:37:58 -0500
 categories: security
+tags: ['security', 'owasp', 'maven']
+excerpt_separator: <!--more-->
+comments: true
 ---
-
-Use the Dependency Check tool to automatically scan your software projects for security
-vulnerabilities as part of your normal CI/CD pipeline.
-
+<em>Use the Dependency Check tool to automatically scan your software projects for security
+vulnerabilities as part of your normal CI/CD pipeline.</em>
 <!--more-->
+
+# Overview
 
 An important part of keeping any software project healthy is by monitoring included third-party
 libraries and keeping them up to date.  Unfortunately, it can be easy to fall behind and not realize
