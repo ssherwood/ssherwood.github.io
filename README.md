@@ -1,3 +1,3 @@
 # GitHub Pages
 
-Current Theme: https://github.com/pages-themes/minimal
+Current Theme: https://github.com/jekyll/minima

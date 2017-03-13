@@ -3,10 +3,11 @@
 
 @import "minima";
 
-.post-date {
-  font-weight: bold;
-}
-
-.post-excerpt {
-  font-style: italic;
+.post-tag {
+  display: inline-block;
+  background: rgba(106,159,181,0.15);
+  padding: 0 .5rem;
+  border-radius: 4px;
+  margin-right: .5rem;
+  font-size: 80%;
 }

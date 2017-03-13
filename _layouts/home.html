@@ -9,10 +9,21 @@ layout: default
     {% for post in site.posts %}
     <li>
       <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-      <h2>
-        <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
-      </h2>
-      {{ post.excerpt }}
+      <h2><a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></h2>
+
+      {% if post.tags[0] %}
+        <div class="tags">
+          <h4>Tags
+          {% for tag in post.tags %}
+            <a href="{{ site.baseurl }}{{ site.tag_page }}#{{ tag | slugify }}" class="post-tag">{{ tag }}</a>
+          {% endfor %}
+          </h4>
+        </div>
+      {% endif %}
+
+      <article>
+        {{ post.excerpt }}
+      </article>
     </li>
     {% endfor %}
   </ul>
