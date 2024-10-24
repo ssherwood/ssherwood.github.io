@@ -1,10 +1,16 @@
-#  The contact options.
+#  The contact options:
 
 - type: github
   icon: "fab fa-github"
+  url: "https://github.com/ssherwood"
 
-- type: twitter
-  icon: "fa-brands fa-x-twitter"
+- type: linkedin
+  icon: "fab fa-linkedin"
+  url:  "https://www.linkedin.com/in/shawn-sherwood/"
+
+- type: stack-overflow
+  icon: "fab fa-stack-overflow"
+  url:  "https://stackoverflow.com/users/1435451/shawn-sherwood"
 
 - type: email
   icon: "fas fa-envelope"
@@ -13,7 +19,11 @@
 - type: rss
   icon: "fas fa-rss"
   noblank: true
+
 # Uncomment and complete the url below to enable more contact options
+#
+# - type: twitter
+#   icon: "fa-brands fa-x-twitter"
 #
 # - type: mastodon
 #   icon: 'fab fa-mastodon'   # icons powered by <https://fontawesome.com/>

@@ -14,10 +14,11 @@ timezone: America/New_York
 
 title: UnderTree
 
-tagline: A blog for all things interesting...
+tagline: A blog for all things interesting under the tree...
 
 description: >-
-  A technology focused blog on various topics.
+  Primarily a technology focused blog on various topics of my personal interests including software development,
+  distributed systems, databases and more.
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
