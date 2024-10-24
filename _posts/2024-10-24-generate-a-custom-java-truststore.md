@@ -1,7 +1,7 @@
 ---
 title: Generate a Custom Java Truststore
-date: 2024-10-24 03:58:00 +0700
-categories: [Java_Tips]
+date: 2024-10-24 21:06:30 +0700
+categories: [Java Tips]
 tags: [java, security]
 ---
 
